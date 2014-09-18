@@ -1,10 +1,3 @@
-@@ -1,15 +1,55 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
-makeCacheMatrix <- function(x = matrix()) {
 
 # the function makeCacheMatrix creates a special matrix object
 # that can cache its inverse
@@ -67,5 +60,5 @@ cacheSolve <- function(x,...){
   # return inverse mi
   im
 }
- No newline at end of file
+
 
